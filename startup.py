@@ -1,5 +1,4 @@
 import uvicorn
-
 from fastapi import FastAPI, APIRouter
 
 # Initialize app instance
